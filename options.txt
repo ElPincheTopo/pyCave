@@ -13,22 +13,22 @@
 #be added.
 
 #--- Default is false
-mute True
+mute false
 
 #--- Default is True
-#shadows False
+shadows true
 
 #--- Default is False
-#debug True
+debug false
 
 #--- Default is True
-#tunnel_geom False
+tunnel_geom false
 
 #--- Default is True
-#mortal False
+mortal true
 
 #--- Default is False
-#show_fps True
+show_fps false
 
 #--- Use optimized C module. Default True
-#cext_available False
+cext_available true

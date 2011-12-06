@@ -4,6 +4,8 @@ To run, you will need to meet the following dependencies:
 
 Python >=2.5
 PyGame >=1.8
+python-dev >=2.5
+python_opengl >=3.0.1
 
 Run the script to build the C extension
 
@@ -47,8 +49,5 @@ create the extension.
 Go to src/ and do:
 
    $> swig -python cext.i
-
-Uncompress PyOpenGL.tar.gz into src/ so
-that pyCave has a local, tested, version of the OpenGL module.
 
 If you're having graphics problems after that, then it's a bug ;)
