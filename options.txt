@@ -12,23 +12,23 @@
 #Parameters that are not in pyCaveOptions (interface.py) will
 #be added.
 
-#--- Default is false
-mute false
+#--- Default is False
+mute False
 
 #--- Default is True
-shadows true
+shadows True
 
 #--- Default is False
-debug false
+debug False
 
 #--- Default is True
-tunnel_geom false
+tunnel_geom Talse
 
 #--- Default is True
-mortal true
+mortal True
 
 #--- Default is False
-show_fps false
+show_fps False
 
 #--- Use optimized C module. Default True
-cext_available true
+cext_available True
