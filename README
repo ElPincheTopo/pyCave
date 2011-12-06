@@ -33,6 +33,7 @@ decent textures.
 
 The game has been tested on:
 
+Ubuntu 11.10 x64 with Nvidia GeForce 9500 GT
 Ubuntu 8.10 x64 with Nvidia 8 series
 Windows Vista x64 with Nvidia 8 series
 MacOs 10.5 laptop with integrated Intel GMA x3100 (Only works on Python 2.6 atm...)
